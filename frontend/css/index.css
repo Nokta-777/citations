@@ -1,0 +1,25 @@
+html {
+    background-image: url("https://www.numerama.com/wp-content/uploads/2022/09/livres.jpg");
+    background-size : cover;
+	-webkit-background-size : cover;
+	-moz-background-size : cover;
+	-o-background-size : cover;
+	font-family: arial;
+}
+
+.b1 {
+    background-color: #f5f5dc;
+}
+
+.b2 {
+    background-color: #f5f5dc;
+    vertical-align: top;
+}
+
+.Titre {
+    font-size: 74px;
+}
+
+.Titre2 {
+    font-size: 62px;
+}
